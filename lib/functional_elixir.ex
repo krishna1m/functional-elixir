@@ -1,0 +1,2 @@
+defmodule FunctionalElixir do
+end
