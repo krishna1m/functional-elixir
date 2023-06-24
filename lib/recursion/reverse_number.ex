@@ -1,4 +1,4 @@
-defmodule Tutorials.Recursion.ReverseNumber do
+defmodule FunctionalElixir.Recursion.ReverseNumber do
   def reverse(num, acc \\ 0)
   def reverse(0, acc), do: acc
   def reverse(num, acc) do

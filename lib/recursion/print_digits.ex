@@ -1,4 +1,4 @@
-defmodule Tutorials.Recursion.PrintDigits do
+defmodule FunctionalElixir.Recursion.PrintDigits do
   # base case
   def upto(0), do: :ok
   def upto(num) do

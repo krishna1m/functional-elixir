@@ -1,4 +1,4 @@
-defmodule Tutorials.Lists do
+defmodule FunctionalElixir.Lists do
   @moduledoc """
   Function summary:
   1. sum  

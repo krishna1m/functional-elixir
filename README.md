@@ -1,6 +1,6 @@
 # FunctionalElixir
 
-**TODO: Add description**
+** My functional programming explorations with Scala ✈🌎
 
 ## Installation
 
