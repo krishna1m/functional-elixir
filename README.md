@@ -1,8 +1,6 @@
-# FunctionalElixir
+## My functional programming explorations with Elixir ✈🌎
 
-** My functional programming explorations with Scala ✈🌎
-
-## Installation
+### Installation
 
 If [available in Hex](https://hex.pm/docs/publish), the package can be installed
 by adding `functional_elixir` to your list of dependencies in `mix.exs`:
